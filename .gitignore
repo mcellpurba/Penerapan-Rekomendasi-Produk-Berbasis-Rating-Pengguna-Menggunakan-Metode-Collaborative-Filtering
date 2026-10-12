@@ -1,0 +1,7 @@
+# Ignore dataset dan file kompresi
+ml-100k.zip
+dataset/
+
+# Ignore folder internal Colab / sistem
+.config/
+sample_data/
